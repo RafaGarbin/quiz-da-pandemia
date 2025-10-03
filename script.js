@@ -16,7 +16,7 @@ const perguntas = [
             },
 
             {
-                texto: "Acredito que isso não é nada sério afinal não tem nada comprovado e me reuno com diversas pessoas em local público",
+                texto: "Acredito que isso não é nada sério afinal não tem nada comprovado e me reuno com diversas pessoas em local público.",
                 afirmacao : " O não isolamento social logo no surgimento do vírus pode ter agilizado o contágio entre a população"
             }   
             
@@ -31,7 +31,7 @@ const perguntas = [
             },
             {
                 texto: "Continuaria me reunindo sem preocupações pois só estou com pessoas que confio e conheço.",
-                afirmacao: " O não uso correto de mascara fez crescer o numero de casos infectados causando um grande numero de passiente procurando as unidades de saúde e aumentanto ainda mais os casos da cidade."
+                afirmacao: " O não uso correto de mascara fez crescer o numero de casos infectados causando um grande numero de pacientes procurando as unidades de saúde e aumentanto ainda mais os casos da cidade."
             }
             
         ]
